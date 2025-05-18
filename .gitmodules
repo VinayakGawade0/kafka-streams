@@ -1,0 +1,9 @@
+[submodule "spring-kafka-service"]
+	path = spring-kafka-service
+	url = https://github.com/VinayakGawade0/spring-kafka-service.git
+[submodule "angular-kafka-app"]
+	path = angular-kafka-app
+	url = https://github.com/VinayakGawade0/angular-kafka-app.git
+[submodule "kafka-message"]
+	path = kafka-message
+	url = https://github.com/VinayakGawade0/kafka-message.git
