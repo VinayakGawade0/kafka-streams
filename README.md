@@ -52,4 +52,6 @@ git submodule add https://github.com/VinayakGawade0/angular-kafka-app.git angula
 ### 🔐 CORS Enabled
 The backend is configured with CORS to allow communication with the Angular frontend during development.
 
-MIT License @ Vinayak Gawade
+## License
+
+This project is licensed under the MIT License © Vinayak Gawade.
