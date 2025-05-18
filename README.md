@@ -16,7 +16,7 @@ This repository combines:
 |--------------------------|-------------------------------------------------------|
 | `spring-kafka-service`   | Spring Boot application for Kafka message handling   |
 | `angular-kafka-app`      | Angular application for sending Kafka messages       |
-| `kafka-message`          | Shared models/interfaces between frontend and backend (optional)
+| `kafka-message`          | Shared models/interfaces between frontend and backend (optional) |
 
 ---
 
@@ -52,6 +52,6 @@ git submodule add https://github.com/VinayakGawade0/angular-kafka-app.git angula
 ### 🔐 CORS Enabled
 The backend is configured with CORS to allow communication with the Angular frontend during development.
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License © Vinayak Gawade.
